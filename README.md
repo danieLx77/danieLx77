@@ -1,4 +1,4 @@
-# Olá, eu sou Daniel Moreira 👋
+# Daniel de Jesus Moreira
 
 Sou estudante de **Sistemas de Informação na Universidade Federal de Lavras (UFLA)**, atualmente no 7º período.
 
